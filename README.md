@@ -13,7 +13,7 @@ Main aik seasoned software professional hoon jo complex systems ki scaling aur b
 | **Databases** | `MySQL`, `SQL Server` |
 | **Frontend** | `JavaScript`, `React`, `Vue.js`, `Blade` |
 | **DevOps & Env** | `Linux (WSL)`, `Docker`, `Git`, `Cursor (Antigravity IDE)` |
-| **Integrations** | `Stripe`, `PayPal`, `Travelport`, `SOAP/REST APIs` |
+| **Integrations** | `Stripe`, `PayPal`, `SOAP/REST APIs` |
 
 ---
 
