@@ -50,8 +50,8 @@ I am a seasoned software professional specializing in building and scaling compl
 <p align="center">
   <img src="https://img.shields.io/badge/Stripe-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PayPal-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP/REST APIs-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware Integrations-2496ED?style=for-the-badge&logo=openai&logoColor=white" />  
+  <img src="https://img.shields.io/badge/SOAP/REST APIs-FCC624?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware Integrations-61DAFB?style=for-the-badge&logo=openai&logoColor=white" />  
 </p>
 
 ---
