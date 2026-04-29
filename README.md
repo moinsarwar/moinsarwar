@@ -3,7 +3,7 @@
   <br><br>
   <h1>Hi there, I'm Moin Sarwar! 👋</h1>
   <a href="https://github.com/moinsarwar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;Product+Manager;Systems+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Product+Manager;Systems+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
   </a>
   <br>
   <p><b>Bridging the gap between technical complexity and real business value through high-performance solutions.</b></p>
