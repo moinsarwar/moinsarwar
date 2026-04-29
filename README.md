@@ -48,9 +48,10 @@ I am a seasoned software professional specializing in building and scaling compl
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  
-  `Stripe` • `PayPal` • `SOAP/REST APIs` • `Hardware Integrations`
+  <img src="https://img.shields.io/badge/Stripe-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP/REST APIs-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware Integrations-2496ED?style=for-the-badge&logo=openai&logoColor=white" />  
 </p>
 
 ---
