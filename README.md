@@ -1,50 +1,92 @@
-# Hi there, I'm Moin Sarwar 👋
-### 🚀 Senior Software Developer | Product Manager
-
-Main aik seasoned software professional hoon jo complex systems ki scaling aur building mein maharat rakhta hai. Mera focus **Full-Stack Development**, **Systems Architecture**, aur **Product Strategy** par hai. Main technical complexity ko business goals ke sath align kar ke high-performance solutions deliver karta hoon.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Backend** | `.NET (C#)`, `Laravel (PHP)`, `Python` |
-| **Databases** | `MySQL`, `SQL Server` |
-| **Frontend** | `JavaScript`, `React`, `Vue.js`, `Blade` |
-| **DevOps & Env** | `Linux (WSL)`, `Docker`, `Git`, `Cursor (Antigravity IDE)` |
-| **Integrations** | `Stripe`, `PayPal`, `SOAP/REST APIs` |
-
----
-
-### 🤖 AI & Automation Focus
-I am dedicated to building intelligent automation tools that streamline communication and enhance productivity.
-
-- 🤖 **AI Integration**: Architecting smart applications using **DeepSeek**, **Gemini**, aur **OpenAI**.
-- ⚡ **Workflow Automation**: Developing Python-based workflows for multi-channel API integrations (WhatsApp, Gmail, etc.).
-- 🌐 **Modern Web**: Delivering responsive, production-ready web platforms with a focus on seamless user experience.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moinsarwar&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br><br>
+  <h1>Hi there, I'm Moin Sarwar! 👋</h1>
+  <a href="https://github.com/moinsarwar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;Product+Manager;Systems+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
+  </a>
+  <br>
+  <p><b>Main technical complexity ko business goals ke sath align kar ke high-performance solutions deliver karta hoon.</b></p>
+  <p align="center">
+    <a href="mailto:moinsarwar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/moinsarwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/moin-sarwar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 📂 Featured Project
-🚀 [**Mail-to-WhatsApp Sender**](https://github.com/moinsarwar/mail-to-whatsapp-sender)
-*DeepSeek AI-powered automation tool jo emails ko summarize karta hai aur unhain high-fidelity PDF rendering ke sath WhatsApp par forward karta hai.*
+### 👨‍💻 About My Expertise
+Main aik seasoned software professional hoon jo complex systems ki scaling aur building mein maharat rakhta hai. Mera zyada tar kaam **Full-Stack Development**, **Systems Architecture**, aur **Product Strategy** ke gird ghoomta hai. 
+* 🏢 **Enterprise Systems:** Pharmacy POS systems aur Gunnebo airport security gates ki complex hardware/API integrations.
+* 🤖 **AI & Automation:** Local LLMs (Gemma, DeepSeek) aur Python-based multi-channel workflows.
+* 💡 **Philosophy:** *The best way to predict the future is to automate it.*
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=moinsarwar&show_icons=true&theme=radical&hide_border=true" alt="Moin's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinsarwar&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+### 🧱 Tech Stack & Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<p align="center">
+  `Stripe` • `PayPal` • `SOAP/REST APIs` • `Hardware Integrations`
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 📧 **Email**: [moinsarwar19@gmail.com](mailto:moinsarwar19@gmail.com)
-- 💼 **LinkedIn**: [moin-sarwar](https://www.linkedin.com/in/moin-sarwar/)
-- 🐙 **GitHub**: [@moinsarwar](https://github.com/moinsarwar)
+### 🤖 AI, Automation & Enterprise Focus
+
+* 🤖 **AI Integration**: Architecting smart applications using **DeepSeek**, **Gemini**, aur **OpenAI**.
+* ⚡ **Workflow Automation**: Developing Python-based workflows for multi-channel API integrations (WhatsApp, Gmail).
+* 🛡️ **Robust Architecture**: Developing resilient backend services, including standalone watchdog processes for maximum uptime.
 
 ---
-> *"The best way to predict the future is to automate it."*
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 <a href="https://github.com/moinsarwar/mail-to-whatsapp-sender">Mail-to-WhatsApp Sender</a></h3>
+      <p>DeepSeek AI-powered automation tool jo emails ko summarize karta hai aur unhain high-fidelity PDF rendering ke sath WhatsApp par forward karta hai.</p>
+    </td>
+    <td width="50%">
+      <h3>🏢 Enterprise Integrations</h3>
+      <p>Developed high-performance Point of Sale (POS) systems aur Gunnebo airport security gates ke liye complex flight schedule validation aur hardware communication APIs implement kiye.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://github-isometric-contribution.notion.site/api/v1/proxy?gituser=moinsarwar&theme=light&graph=contribution&count_private=true" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moinsarwar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Moin's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinsarwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
