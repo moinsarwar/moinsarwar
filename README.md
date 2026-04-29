@@ -48,10 +48,10 @@ I am a seasoned software professional specializing in building and scaling compl
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Stripe-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayPal-2496ED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP/REST APIs-FCC624?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware Integrations-61DAFB?style=for-the-badge&logo=openai&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Stripe-2496ED?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP/REST_APIs-FCC624?style=for-the-badge&logo=json&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hardware_Integrations-61DAFB?style=for-the-badge&logo=cplusplus&logoColor=black" />  
 </p>
 
 ---
@@ -81,9 +81,9 @@ I am a seasoned software professional specializing in building and scaling compl
 
 ---
 
-### 🧊 3D Contribution Graph
+### 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://github-isometric-contribution.notion.site/api/v1/proxy?gituser=moinsarwar&theme=light&graph=contribution&count_private=true" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinsarwar&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
