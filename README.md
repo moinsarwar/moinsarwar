@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;Product+Manager;Systems+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
   </a>
   <br>
-  <p><b>Main technical complexity ko business goals ke sath align kar ke high-performance solutions deliver karta hoon.</b></p>
+  <p><b>Bridging the gap between technical complexity and real business value through high-performance solutions.</b></p>
   <p align="center">
     <a href="mailto:moinsarwar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/moinsarwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -17,9 +17,9 @@
 ---
 
 ### 👨‍💻 About My Expertise
-Main aik seasoned software professional hoon jo complex systems ki scaling aur building mein maharat rakhta hai. Mera zyada tar kaam **Full-Stack Development**, **Systems Architecture**, aur **Product Strategy** ke gird ghoomta hai. 
-* 🏢 **Enterprise Systems:** Pharmacy POS systems aur Gunnebo airport security gates ki complex hardware/API integrations.
-* 🤖 **AI & Automation:** Local LLMs (Gemma, DeepSeek) aur Python-based multi-channel workflows.
+I am a seasoned software professional specializing in building and scaling complex enterprise systems. My focus lies at the intersection of **Full-Stack Development**, **Systems Architecture**, and **Product Strategy**.
+* 🏢 **Enterprise Systems:** Extensive experience in hardware/API integrations for airport security gates (Gunnebo) and specialized Point of Sale (POS) systems.
+* 🤖 **AI & Automation:** Proficient in leveraging local LLMs (Gemma, DeepSeek) and developing robust Python-based multi-channel workflows.
 * 💡 **Philosophy:** *The best way to predict the future is to automate it.*
 
 ---
@@ -48,6 +48,8 @@ Main aik seasoned software professional hoon jo complex systems ki scaling aur b
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  
   `Stripe` • `PayPal` • `SOAP/REST APIs` • `Hardware Integrations`
 </p>
 
@@ -55,23 +57,23 @@ Main aik seasoned software professional hoon jo complex systems ki scaling aur b
 
 ### 🤖 AI, Automation & Enterprise Focus
 
-* 🤖 **AI Integration**: Architecting smart applications using **DeepSeek**, **Gemini**, aur **OpenAI**.
-* ⚡ **Workflow Automation**: Developing Python-based workflows for multi-channel API integrations (WhatsApp, Gmail).
-* 🛡️ **Robust Architecture**: Developing resilient backend services, including standalone watchdog processes for maximum uptime.
+* 🤖 **AI Integration**: Architecting smart applications utilizing **DeepSeek**, **Gemini**, and **OpenAI**.
+* ⚡ **Workflow Automation**: Engineering Python-driven orchestration for multi-channel API integrations (WhatsApp, Gmail).
+* 🛡️ **Robust Architecture**: Developing resilient backend services, including standalone watchdog processes ensuring maximum uptime.
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Highlights
 
 <table>
   <tr>
     <td width="50%">
       <h3>🚀 <a href="https://github.com/moinsarwar/mail-to-whatsapp-sender">Mail-to-WhatsApp Sender</a></h3>
-      <p>DeepSeek AI-powered automation tool jo emails ko summarize karta hai aur unhain high-fidelity PDF rendering ke sath WhatsApp par forward karta hai.</p>
+      <p>A DeepSeek AI-powered automation tool that summarizes incoming emails and securely forwards them to WhatsApp with high-fidelity PDF rendering capabilities.</p>
     </td>
     <td width="50%">
-      <h3>🏢 Enterprise Integrations</h3>
-      <p>Developed high-performance Point of Sale (POS) systems aur Gunnebo airport security gates ke liye complex flight schedule validation aur hardware communication APIs implement kiye.</p>
+      <h3>🏢 Enterprise Architecture</h3>
+      <p>Engineered complex validation APIs for Gunnebo airport security gates and developed high-performance, specialized Point of Sale (POS) ecosystems from the ground up.</p>
     </td>
   </tr>
 </table>
