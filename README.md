@@ -141,17 +141,17 @@ Pakistan / GCC **comparison + lead-gen platform** ([thecomparisonengine.com](htt
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinsarwar&theme=github" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=moinsarwar&theme=github-dark&hide_border=true&background=00000000" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinsarwar&amp;theme=github" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=moinsarwar&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" alt="GitHub Streak" height="180" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moinsarwar&theme=github" alt="Top Languages by repos" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moinsarwar&theme=github" alt="Top Languages by commits" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moinsarwar&amp;theme=github" alt="Top Languages by repos" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moinsarwar&amp;theme=github" alt="Top Languages by commits" height="180" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moinsarwar&theme=github" alt="Productive time" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moinsarwar&amp;theme=github" alt="Productive time" height="180" />
 </div>
 
 ---
