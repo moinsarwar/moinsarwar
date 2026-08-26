@@ -3,10 +3,10 @@
   <br><br>
   <h1>Hi there, I'm Moin Sarwar! 👋</h1>
   <a href="https://github.com/moinsarwar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Laravel+%26+.NET;AI+%26+Automation+Builder;Building+real+products+for+real+businesses" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Senior+Laravel+Developer+%40+Fitwell+Hub;Healthcare+platforms+%26+full-stack+systems;Laravel+%7C+.NET+%7C+AI+Automation" alt="Typing SVG" />
   </a>
   <br>
-  <p><b>Full-stack developer at Magic Tech Sol — shipping Laravel apps, AI automation, and client-ready web products from Multan, Pakistan.</b></p>
+  <p><b>Senior Laravel Developer at <a href="https://fitwellhub.pk/">Fitwell Hub</a> — building healthcare platform systems, plus Laravel products and AI automation from Multan, Pakistan.</b></p>
   <p align="center">
     <a href="mailto:moinsarwar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/moinsarwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -17,9 +17,10 @@
 </div>
 ---
 ### 👨‍💻 About Me
-I build production web apps and automation pipelines — from multi-role Laravel systems to AI-powered workflows that save teams hours every week.
-* 🏢 **Current:** Junior Software Developer @ **Magic Tech Sol** (Multan)
-* 🛠️ **Focus:** Laravel / PHP full-stack, .NET integrations, Python automation
+I build production Laravel systems for healthcare and business ops — from multi-role platforms to AI-powered workflows that save teams hours every week.
+* 🏢 **Current:** Senior Laravel Developer @ **[Fitwell Hub](https://fitwellhub.pk/)** — Pakistan’s hybrid healthcare (H.E.A.L.T.H.) platform
+* 🧾 **Previous:** Software Developer @ **Magic Tech Sol** — enterprise integrations, POS, and client products
+* 🛠️ **Focus:** Laravel / PHP architecture, healthcare workflows, .NET integrations, Python automation
 * 🤖 **AI:** DeepSeek, Gemini & OpenAI for summarization, task extraction, and smart workflows
 * 💡 **Philosophy:** *Ship useful software. Automate the boring parts.*
 ---
@@ -66,6 +67,7 @@ I build production web apps and automation pipelines — from multi-role Laravel
   <summary><b>Also built</b></summary>
   <br>
   <ul>
+    <li><b>Fitwell Hub platform work</b> — Senior Laravel development for clinics, telehealth, and healthcare operations (company product)</li>
     <li><a href="https://github.com/moinsarwar/DoctorAppointmentSystem">DoctorAppointmentSystem</a> — earlier PHP clinic booking prototype</li>
     <li><a href="https://moinsarwar.github.io">moinsarwar.github.io</a> — personal portfolio site</li>
     <li>Enterprise gate validation APIs (Gunnebo) & specialized POS systems (.NET / C# / SQL Server)</li>
@@ -114,6 +116,6 @@ I build production web apps and automation pipelines — from multi-role Laravel
 </div>
 ---
 <div align="center">
-  <p>Open to freelance & full-time opportunities — especially Laravel, .NET integrations, and AI automation.</p>
+  <p>Currently shipping at Fitwell Hub · Open to selective freelance on Laravel, healthcare systems, and AI automation.</p>
   <p><b>Let's build something useful.</b> → <a href="mailto:moinsarwar19@gmail.com">moinsarwar19@gmail.com</a></p>
 </div>
