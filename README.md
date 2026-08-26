@@ -135,14 +135,23 @@ Pakistan / GCC **comparison + lead-gen platform** ([thecomparisonengine.com](htt
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinsarwar&theme=github-compact&hide_border=true&color=0078D4&line=0078D4&point=58A6FF" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0078D4/moinsarwar" alt="Moin Sarwar contribution chart" width="100%" />
 </p>
 
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moinsarwar&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9&count_private=true" alt="Moin's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinsarwar&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinsarwar&theme=github" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=moinsarwar&theme=github-dark&hide_border=true&background=00000000" alt="GitHub Streak" height="180" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moinsarwar&theme=github" alt="Top Languages by repos" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moinsarwar&theme=github" alt="Top Languages by commits" height="180" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moinsarwar&theme=github" alt="Productive time" height="180" />
 </div>
 
 ---
